@@ -1,0 +1,8 @@
+C:\Users\MSTA\Desktop\Mod\ScriptHookVDotNet\Projects\GTA V First Mod\GTA V First Mod\bin\Debug\GTA V First Mod.dll
+C:\Users\MSTA\Desktop\Mod\ScriptHookVDotNet\Projects\GTA V First Mod\GTA V First Mod\bin\Debug\GTA V First Mod.pdb
+C:\Users\MSTA\Desktop\Mod\ScriptHookVDotNet\Projects\GTA V First Mod\GTA V First Mod\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\MSTA\Desktop\Mod\ScriptHookVDotNet\Projects\GTA V First Mod\GTA V First Mod\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\MSTA\Desktop\Mod\ScriptHookVDotNet\Projects\GTA V First Mod\GTA V First Mod\obj\Debug\GTA V First Mod.csprojResolveAssemblyReference.cache
+C:\Users\MSTA\Desktop\Mod\ScriptHookVDotNet\Projects\GTA V First Mod\GTA V First Mod\obj\Debug\GTA V First Mod.csproj.CoreCompileInputs.cache
+C:\Users\MSTA\Desktop\Mod\ScriptHookVDotNet\Projects\GTA V First Mod\GTA V First Mod\obj\Debug\GTA V First Mod.dll
+C:\Users\MSTA\Desktop\Mod\ScriptHookVDotNet\Projects\GTA V First Mod\GTA V First Mod\obj\Debug\GTA V First Mod.pdb
